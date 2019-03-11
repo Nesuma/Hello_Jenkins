@@ -1,4 +1,4 @@
-[![Build Status](http://127.0.0.1:8080/job/HelloWorldC++/badge/icon)](http://127.0.0.1:8080/job/HelloWorldC++/)
+http://127.0.0.1:8080/job/HelloWorldC++/badge/text
 ## Hello_Jenkins <img align="right" src="img/liatrio.png">
 This simple exercise is designed to introduce you to Jenkins and continuous integration. This was originally written
 as an exercise for California State University, Chico. I have since modified it to be a simple exercise for anyone
